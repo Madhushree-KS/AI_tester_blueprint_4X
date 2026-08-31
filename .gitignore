@@ -156,6 +156,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.nodejs/
+.commandcode/skills/
+.commandcode/taste/
+.commandcode/blueprint/
 
 # Spyder project settings
 .spyderproject
